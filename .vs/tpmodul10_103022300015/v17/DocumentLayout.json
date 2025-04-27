@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\repo\\tpmodul10_103022300015\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F72870CA-7151-4F16-AB62-026A19358F2A}|tpmodul10_103022300015\\tpmodul10_103022300015.csproj|c:\\users\\user\\documents\\repo\\tpmodul10_103022300015\\tpmodul10_103022300015\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72870CA-7151-4F16-AB62-026A19358F2A}|tpmodul10_103022300015\\tpmodul10_103022300015.csproj|solutionrelative:tpmodul10_103022300015\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72870CA-7151-4F16-AB62-026A19358F2A}|tpmodul10_103022300015\\tpmodul10_103022300015.csproj|c:\\users\\user\\documents\\repo\\tpmodul10_103022300015\\tpmodul10_103022300015\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72870CA-7151-4F16-AB62-026A19358F2A}|tpmodul10_103022300015\\tpmodul10_103022300015.csproj|solutionrelative:tpmodul10_103022300015\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\repo\\tpmodul10_103022300015\\tpmodul10_103022300015\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "tpmodul10_103022300015\\Controllers\\MahasiswaController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\repo\\tpmodul10_103022300015\\tpmodul10_103022300015\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "tpmodul10_103022300015\\Controllers\\MahasiswaController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:02:25.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\repo\\tpmodul10_103022300015\\tpmodul10_103022300015\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "tpmodul10_103022300015\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\repo\\tpmodul10_103022300015\\tpmodul10_103022300015\\Mahasiswa.cs",
+              "RelativeToolTip": "tpmodul10_103022300015\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:00:20.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

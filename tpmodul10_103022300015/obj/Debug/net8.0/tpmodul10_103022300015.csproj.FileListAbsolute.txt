@@ -34,3 +34,4 @@ C:\Users\user\Documents\repo\tpmodul10_103022300015\tpmodul10_103022300015\obj\D
 C:\Users\user\Documents\repo\tpmodul10_103022300015\tpmodul10_103022300015\obj\Debug\net8.0\tpmodul10_103022300015.pdb
 C:\Users\user\Documents\repo\tpmodul10_103022300015\tpmodul10_103022300015\obj\Debug\net8.0\tpmodul10_103022300015.genruntimeconfig.cache
 C:\Users\user\Documents\repo\tpmodul10_103022300015\tpmodul10_103022300015\obj\Debug\net8.0\ref\tpmodul10_103022300015.dll
+C:\Users\user\Documents\repo\tpmodul10_103022300015\tpmodul10_103022300015\obj\Debug\net8.0\tpmodul10_103022300015.sourcelink.json
